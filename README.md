@@ -1,4 +1,4 @@
-This is a simple monster rolodex.I did it for better understanding class components. U can filter the monsters. Finally i used fetch for user information.
+This is a simple monster rolodex.I did it for better understanding class components. U can filter the monsters. Finally i used fetch for user information.By the way its responsive
 
 The api i used => <h3>https://robohash.org/</h3>
 
@@ -7,7 +7,7 @@ The api i used => <h3>https://robohash.org/</h3>
 ![img3](https://user-images.githubusercontent.com/96912858/203280580-68ac5a9b-aee9-4364-ad52-cd6dc6b78a63.png)
 
 <h1>FOR DEMO</h1>
-<h2></h2>
+<h2>https://monster-rolodex1111.netlify.app/</h2>
 
 # Getting Started with Create React App
 
