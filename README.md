@@ -1,3 +1,14 @@
+This is a simple monster rolodex.I did it for better understanding class components. U can filter the monsters. Finally i used fetch for user information.
+
+The api i used => <h3>https://robohash.org/</h3>
+
+![img1](https://user-images.githubusercontent.com/96912858/203280555-c80fffc4-2244-4ef2-891f-094013c1027f.png)
+![img2](https://user-images.githubusercontent.com/96912858/203280571-42927f41-97d0-4d74-95ed-ec505d61656e.png)
+![img3](https://user-images.githubusercontent.com/96912858/203280580-68ac5a9b-aee9-4364-ad52-cd6dc6b78a63.png)
+
+<h1>FOR DEMO</h1>
+<h2></h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
